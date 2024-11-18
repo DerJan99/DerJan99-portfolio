@@ -1,0 +1,27 @@
+.radius {
+    border-radius: 8px;
+}
+
+.accordion-wrapper {
+    margin: .5rem 0;
+}
+
+.chip-list {
+    margin: 1rem 0;
+}
+
+.chip {
+    margin: .2rem .2rem;
+}
+
+.button {
+    margin: 1rem 0;
+    
+    &.button-0 {
+        margin-right: .2rem;
+    }
+
+    &.button-1 {
+        margin-left: .2rem;
+    }
+}

@@ -1,0 +1,16 @@
+.profile-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.divider {
+ height: auto;
+ width: 2px;
+ background-color: grey;
+ margin: 0 4rem;
+}
+
+.alignment {
+    text-align: end;
+}
